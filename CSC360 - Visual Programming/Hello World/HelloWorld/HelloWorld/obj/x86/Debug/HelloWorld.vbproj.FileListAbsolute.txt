@@ -1,0 +1,14 @@
+H:\CSC300\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+H:\CSC300\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+H:\CSC300\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\lab1.HelloWorld.resources
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\lab1.Resources.resources
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+H:\CSC300\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+H:\CSC360\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+H:\CSC360\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+H:\CSC360\Hello World\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
